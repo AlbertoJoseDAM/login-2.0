@@ -23,7 +23,9 @@ namespace Formulario
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+      
+
+        private void button1_Click_1(object sender, EventArgs e)
         {
             if ((textBox1.Text == usuario) && (textBox2.Text == contraseña))
             {
@@ -39,8 +41,19 @@ namespace Formulario
             {
                 MessageBox.Show("La contraseña o el usuario son incorrectos");
             }
-
         }
+
+        public static string GetUsuario()
+        {
+            return usuario;
+        }
+
+        public static string GetContraseña()
+        {
+            return contraseña;
+        }
+
+
 
     }
 }
