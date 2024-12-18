@@ -15,6 +15,7 @@ namespace Formulario
         public Form1()
         {
             InitializeComponent();
+            Data.Connection.OpenConnection();
         }
     }
 }
