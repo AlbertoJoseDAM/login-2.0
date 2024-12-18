@@ -34,6 +34,11 @@ C:\Users\Usuario\source\repos\Formulario\Formulario\bin\Debug\System.Numerics.Ve
 C:\Users\Usuario\source\repos\Formulario\Formulario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Usuario\source\repos\Formulario\Formulario\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Usuario\source\repos\Formulario\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+<<<<<<< HEAD
+=======
+C:\Users\Usuario\source\repos\Formulario\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\Usuario\source\repos\Formulario\Formulario\obj\Debug\Formulario.Form2.resources
+>>>>>>> GUI
 C:\Users\Usuario\source\repos\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
 C:\Users\Usuario\source\repos\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
 C:\Users\Usuario\source\repos\Formulario\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
